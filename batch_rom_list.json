@@ -31,10 +31,6 @@
     {
       "rom": "OS3.0.3.0.VMHCNXM",
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VMHCNXM/yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip"
-    },
-    {
-      "rom": "OS2.0.211.0.VMHCNXM",
-      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.211.0.VMHCNXM/yudi-ota_full-OS2.0.211.0.VMHCNXM-user-15.0-7bd25509d3.zip"
     }
   ],
   "Xiaomi Pad 7": [
@@ -57,12 +53,6 @@
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOYCNXM/muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip"
     }
   ],
-  "Redmi K Pad": [
-    {
-      "rom": "OS3.0.7.0.WAOCNXM",
-      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WAOCNXM/turner-ota_full-OS3.0.7.0.WAOCNXM-user-16.0-5d4a648561.zip"
-    }
-  ],
   "Xiaomi Pad 6": [
     {
       "rom": "OS2.0.19.0.UMZCNXM",
@@ -73,18 +63,6 @@
     {
       "rom": "OS2.0.10.0.ULZCNXM",
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip"
-    }
-  ],
-  "Redmi Pad": [
-    {
-      "rom": "OS1.0.8.0.ULYCNXM",
-      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULYCNXM/miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip"
-    }
-  ],
-  "Redmi Pad SE": [
-    {
-      "rom": "OS2.0.207.0.VMUCNXM",
-      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VMUCNXM/xun-ota_full-OS2.0.207.0.VMUCNXM-user-15.0-bd0b02abd3.zip"
     }
   ]
 }
