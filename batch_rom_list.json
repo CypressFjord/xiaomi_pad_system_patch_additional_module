@@ -15,6 +15,10 @@
   ],
   "Xiaomi Pad 6S Pro": [
     {
+      "rom": "OS3.0.303.0.WNXCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNXCNXM/sheng-ota_full-OS3.0.303.0.WNXCNXM-user-16.0-a1bf0154a8.zip"
+    },
+    {
       "rom": "OS3.0.7.0.WNXCNXM",
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WNXCNXM/sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip"
     },
@@ -28,6 +32,10 @@
     }
   ],
   "Xiaomi Pad 6 Max": [
+    {
+      "rom": "OS3.0.4.0.VMHCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.VMHCNXM/yudi-ota_full-OS3.0.4.0.VMHCNXM-user-15.0-f11a9f8346.zip"
+    },
     {
       "rom": "OS3.0.3.0.VMHCNXM",
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VMHCNXM/yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip"
