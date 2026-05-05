@@ -53,6 +53,12 @@
       "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOYCNXM/muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip"
     }
   ],
+  "Xiaomi Pad 8 Pro": [
+    {
+      "rom": "OS3.0.305.0.WPYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPYCNXM/piano-ota_full-OS3.0.305.0.WPYCNXM-user-16.0-241014a6e6.zip"
+    }
+  ],
   "Xiaomi Pad 6": [
     {
       "rom": "OS2.0.19.0.UMZCNXM",
